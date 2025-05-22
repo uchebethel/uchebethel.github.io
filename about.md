@@ -6,6 +6,7 @@ title: About
 ## About
 
 Hello everyone, welcome to my website. I am an aspiring fullstack engineer.
+
 About Me
 I'm an apiring Full Stack Engineer with a strong interest in both front-end and back-end development. I desire to specialize in building scalable web applications using modern technologies.  I look forward to working in a collaborative environments where I can contribute to end-to-end product development. I am passionate about exploring new tools and practices to improve performance and user experience. 
 
