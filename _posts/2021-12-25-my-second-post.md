@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Introduction to Python
-subtitle: Each post also has a subtitle
-categories: Python
+title: My Software Growth Path
+subtitle: My upscaling path
+categories: Programming With Python
 tags: [Python, intro, certificate]
 ---
 
